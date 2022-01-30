@@ -9,3 +9,63 @@
     position: fixed;
     
     }
+    .container{
+        
+    
+
+
+
+    }
+
+    .menu{
+        box-sizing: border-box;
+        width: 1293px;
+        height: 63px;
+        background-color: #1E1E24;
+
+        
+    }
+    .menu1{
+        background-image: url(../images/maha.png);
+        background-repeat: no-repeat;
+        width: 260px;
+        height: 63px;
+        background-color: black;
+        float: left;
+        background-position: 70px 20px;
+    }
+    .menu2{
+        width: 1035px;
+        height: 63px;
+        float: right;
+
+
+    }
+    .menu2 ul{
+
+        margin-top: -40px;
+        
+
+    }
+
+
+    .menu2 li {
+        
+        list-style-type: none;
+        display: inline;
+        color: #BFBEBF;
+        margin-right:45px;
+        
+                
+    }
+    .menu2 a{
+        text-decoration: none;
+
+
+    }
+    .menu2 a:link{
+        color: #BFBEBF;
+
+
+
+    }
